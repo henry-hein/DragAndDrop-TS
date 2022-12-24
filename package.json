@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "name": "draganddrop-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-hein/DragAndDrop-TS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry-hein/DragAndDrop-TS/issues"
+  },
+  "homepage": "https://github.com/henry-hein/DragAndDrop-TS#readme",
+  "description": ""
+}
