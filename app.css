@@ -71,7 +71,7 @@ button:active {
 }
 
 #finished-projects header {
-  border-color: #0044ff;
+  background-color: #0044ff;
 }
 
 .projects h2 {
